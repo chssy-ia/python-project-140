@@ -1,5 +1,5 @@
 def main():
-    print("Welcome to the Brain Gamees3!")
+    print("Welcome to the Brain Games!")
 
 
 if __name__ == "__main__":
